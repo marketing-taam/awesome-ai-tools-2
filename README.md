@@ -6298,6 +6298,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Run](https://www.run.ai) - Maximize GPU use, streamline AI workflows, enhance efficiency.. [Contact for Pricing]
 - [Mindverse](https://www.mindos.com) - AI-powered platform for enhanced decision-making and productivity optimization.. [Freemium]
 - [Upflux](https://upflux.net) - Optimize operations, enhance efficiency, reduce costs with AI-driven insights.. [Contact for Pricing]
+- [Taam Cloud](https://taam.cloud/ai-automation) - An AI automation platform, helping enterprises and developers to automate business workflow and operations.. [Freemium]
 - [Applied Intuition](https://appliedintuition.com) - Streamline autonomous system development, testing, and deployment.. [Contact for Pricing]
 - [Prophet Security](https://www.prophet.security) - Revolutionizing cybersecurity with AI-driven alert synthesis and adaptive learning.. [Contact for Pricing]
 - [super.AI](https://www.super.ai) - Automate complex document tasks with precision and efficiency.. [Contact for Pricing]
